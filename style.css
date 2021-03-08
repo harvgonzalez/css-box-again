@@ -1,0 +1,49 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+/*navbar*/
+.navbar-container {   
+    background-color: #424242;
+    border: 1px solid #B9B9B9;
+}
+
+.navbar-item {
+    display: inline-block;
+    color: #9B9B9B;
+    padding: 10px;
+}
+
+.navbar-item:hover{
+    background-color: #E0E0E0;
+    color: #424242;
+}
+
+.navbar-item-small {
+    font-size: 13px;
+}
+
+/*header*/
+.header {
+    height: 200px;
+    background-color: #EEEEEE;
+}
+
+.header-title-container {
+    border: 4px solid red;
+    height: 150px;
+    line-height: 150px;
+}
+
+.header-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+
+}
+.header-title-small {
+    border: 4px solid green;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+/*articles*/
